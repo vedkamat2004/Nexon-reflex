@@ -1,0 +1,6 @@
+{
+  "name": "Neon Reflex",
+  "description": "Neon Reflex is a lightweight browser-based VR + Desktop reaction arcade game using a single codebase and optimized for GitHub Pages deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
